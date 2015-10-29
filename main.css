@@ -65,6 +65,7 @@ blockquote {
 
 .left-column {
 	width: 66%;
+	float: left;
 
 }
 
