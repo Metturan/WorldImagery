@@ -37,21 +37,25 @@ blockquote {
 
 #bar-top {
 	background-color: black;
+	height: 60px;
+	position: fixed;
+	width: 100%;
+	top: 0;
 }
 
 
 .bar-top {
 	padding: 0 1em;
-	height: 60px;
 	line-height: 60px;
-	width: 60em;
 	margin: auto;
+
 
 }
 
 .cat {
 	font-size: 30px;
 	font-weight: 300;
+	margin: 0 50px;
 
 }
 
